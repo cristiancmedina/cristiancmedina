@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @cristiancmedina
-- 👀 I’m interested in Cognitive technologies 
-- 🌱 I’m currently learning Google cloud Platform
-- 💞️ I’m looking to collaborate on Watson services
+- 👀 I’m interested in Angular, React & Nest. CI/CD. Scrum. Agile
+- 🌱 I’m currently learning Terraform, React, Angular Signals
+- 💞️ I’m looking to collaborate on Healthcare services
 - 📫 How to reach me cristianc@brightbots.co
 
 <!---

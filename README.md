@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cristiancmedina
-- 👀 I’m interested in Angular, React & Nest. CI/CD. Scrum. Agile
-- 🌱 I’m currently learning Terraform, React, Angular Signals
+- 👀 I’m interested in Angular, React & NestJS. CI/CD. Scrum. Agile
+- 🌱 I’m currently learning Serverless architecture and React
 - 💞️ I’m looking to collaborate on Healthcare services
 - 📫 How to reach me cristianc@brightbots.co
 
